@@ -1,0 +1,101 @@
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe.config
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\bin\Debug\LastPunch.pdb
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csprojResolveAssemblyReference.cache
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.CompanyViewer.resources
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Properties.Resources.resources
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csproj.GenerateResource.Cache
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.exe
+c:\users\solomondo\documents\visual studio 2015\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.pdb
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe.config
+C:\programacion\LastPunchSolution\LastPunch\obj\Debug\LastPunch.exe
+C:\programacion\LastPunchSolution\LastPunch\obj\Debug\LastPunch.pdb
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\LastPunch.pdb
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.dll
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.dll
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.xml
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.xml
+C:\programacion\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csprojResolveAssemblyReference.cache
+C:\programacion\LastPunchSolution\LastPunch\obj\Debug\LastPunch.CompanyViewer.resources
+C:\programacion\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Properties.Resources.resources
+C:\programacion\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csproj.GenerateResource.Cache
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\dblastpunch.mdf
+C:\programacion\LastPunchSolution\LastPunch\bin\Debug\dblastpunch_log.ldf
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\dblastpunch.mdf
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\dblastpunch_log.ldf
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe.config
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\LastPunch.pdb
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.dll
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.xml
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.BaseForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.CompanyForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.BaseViewForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Properties.Resources.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csproj.GenerateResource.Cache
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.exe
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.pdb
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csprojResolveAssemblyReference.cache
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.CustomerForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.ExpenseForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.MainForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.EngineerForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.OrdersForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.FormatForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.OrderViewForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.AddExpenseToAccountancyForm.resources
+C:\Users\pablo.mateos\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.AccountancyViewForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe.config
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\LastPunch.pdb
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.dll
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.xml
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.AccountancyViewForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.AddExpenseToAccountancyForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.BaseForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.CompanyForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.BaseViewForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.MainForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Properties.Resources.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.CustomerForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.EngineerForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.ExpenseForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.FormatForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.OrdersForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.OrderViewForm.resources
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csproj.GenerateResource.Cache
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.exe
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.pdb
+C:\Users\Martinete\Desktop\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csprojResolveAssemblyReference.cache
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\dblastpunch.mdf
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\dblastpunch_log.ldf
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe.config
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\LastPunch.exe
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\LastPunch.pdb
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.dll
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.xml
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csprojResolveAssemblyReference.cache
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.AccountancyViewForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.AddExpenseToAccountancyForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.BaseForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.CompanyForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.BaseViewForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.MainForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Properties.Resources.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.CustomerForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.EngineerForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.ExpenseForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.FormatForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.OrdersForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.Views.OrderViewForm.resources
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csproj.GenerateResource.Cache
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.csproj.CoreCompileInputs.cache
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.exe
+C:\Users\martinete\Documents\Visual Studio 2017\Projects\LastPunchSolution\LastPunch\obj\Debug\LastPunch.pdb
